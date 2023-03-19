@@ -4,14 +4,10 @@
 
 * Current theme:
   * [Just Black](https://marketplace.visualstudio.com/items?itemName=nur.just-black)
-* Original theme I use in some videos:
-  * [Seti-Monokai](https://marketplace.visualstudio.com/items?itemName=SmukkeKim.theme-setimonokai)
-* I used this darker modification of the above theme for a few videos:
-  * [Seti-Black](https://marketplace.visualstudio.com/items?itemName=bobsparadox.seti-black)
 
 ## Extensions
 
-Most of the features of extensions I used to use are now built in to VS Code. These days I try to have as few extensions installed as possible, and only install extensions when I need them.
+Most of the features of extensions I used to use are now built in to VS Code.
 
 These are the extensions I have installed most of the time:
 
@@ -23,8 +19,6 @@ These are the extensions I have installed most of the time:
   * Integrates ESLint JS
 * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
   * Automatically format javascript, JSON, CSS, Sass, and HTML files.
-* [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
-  * Vue tooling
 * [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
   * Evaluate code/logs inline and show results in the editor
 
@@ -49,7 +43,6 @@ These are the extensions I have installed most of the time:
   "editor.fontLigatures": true,
   "terminal.integrated.fontSize": 24,
   "files.autoSave": "off",
-  "editor.fontFamily": "Anonymous Pro",
   "markdown.preview.fontSize": 36,
   "editor.tabSize": 2,
   "editor.detectIndentation": true,
